@@ -14,7 +14,7 @@ Or download a prebuilt `Cypher.app` from the Releases page.
 
 
 | Phase | What you get 
-|---|---|---|
+|---|---|
 | 1 | Project setup, desk scene, lighting, camera rotation, draggable holograms, save/load 
 | 2 | Hologram polish: flicker, glitches, particles, wireframe→solid→glow materialize, procedural sound 
 | 3 | Edit panel: double-click/pencil, all fields, date picker, Save/Cancel/Delete 
