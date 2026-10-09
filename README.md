@@ -3,6 +3,15 @@
 A personal desktop to-do app built like a game. You sit at a curved desk in a dark lab, tasks float
 as holograms, and a voice assistant called "Cypher" manages them.
 
+## Getting started
+
+1. Clone the repo, then run `tools/setup.sh`. It downloads the Whisper speech model and the Piper
+   voice, which are too large for git.
+2. Open `CypherWorkshop/` in Unity 6000.3.25f1. The first open rebuilds `Library/`, which takes a few minutes.
+3. **Cypher → Build Workshop Scene**, then **Cypher → Build macOS App** (see `docs/PHASE-8.md`).
+
+Or download a prebuilt `Cypher.app` from the Releases page.
+
 ## Repo layout
 
 ```

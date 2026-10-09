@@ -1,0 +1,30 @@
+# macOS
+.DS_Store
+
+# Unity generated folders (rebuilt automatically when the project opens)
+CypherWorkshop/[Ll]ibrary/
+CypherWorkshop/[Tt]emp/
+CypherWorkshop/[Oo]bj/
+CypherWorkshop/[Ll]ogs/
+CypherWorkshop/[Uu]ser[Ss]ettings/
+CypherWorkshop/[Bb]uild/
+CypherWorkshop/[Bb]uilds/
+CypherWorkshop/MemoryCaptures/
+CypherWorkshop/*.csproj
+CypherWorkshop/*.sln
+CypherWorkshop/.vs/
+CypherWorkshop/.idea/
+*.pidb.meta
+*.pdb.meta
+*.mdb.meta
+
+# Built app
+Builds/
+*.app/
+
+# Large downloadable models (run tools/setup.sh to fetch)
+CypherWorkshop/Assets/StreamingAssets/Whisper/*.bin
+tools/piper-voices/*.onnx
+
+# Python virtualenv (recreated by tools/setup.sh)
+tools/piper-venv/
