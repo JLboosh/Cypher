@@ -13,7 +13,7 @@ as holograms, and a voice assistant called "Cypher" manages them.
 Or download a prebuilt `Cypher.app` from the Releases page.
 
 
-|Features
+|Features|
 |---|
 | 1 | Project setup, desk scene, lighting, camera rotation, draggable holograms, save/load 
 | 2 | Hologram polish: flicker, glitches, particles, wireframe→solid→glow materialize, procedural sound 
