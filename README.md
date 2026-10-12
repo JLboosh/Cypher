@@ -3,6 +3,12 @@
 A personal desktop to-do app built like a game. You sit at a curved desk in a dark lab, tasks float
 as holograms, and a voice assistant called "Cypher" manages them.
 
+<p float="left">
+   <img width="979" height="503" alt="Screenshot 2026-10-12 at 2 05 12 PM" src="https://github.com/user-attachments/assets/6aa09718-e205-484e-9972-ee1217addca3" />
+   <img width="979" height="503" alt="Screenshot 2026-10-12 at 2 06 42 PM" src="https://github.com/user-attachments/assets/ded7ee2c-eb11-48f0-a2e3-aafd50aa972d" />
+</p>
+
+
 ## Getting started
 
 1. Clone the repo, then run `tools/setup.sh`. It downloads the Whisper speech model and the Piper
